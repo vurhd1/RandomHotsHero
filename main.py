@@ -14,4 +14,5 @@ def random():
     print(hero)
     return render_template('home.html', hero=hero)
 
-app.run()
+if __name__ == "__main__":
+    app.run(host='127.0.0.1', port=8080, debug=True)

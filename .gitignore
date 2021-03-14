@@ -1,1 +1,4 @@
 __pycache__/
+google-cloud-sdk/
+lib/
+requirements.txt

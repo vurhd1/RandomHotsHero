@@ -63,7 +63,7 @@ def getRandomHero():
     "Ragnaros",
     "Zuljin",
     "Valeera",
-    "Lúcio",
+    "Lucio",
     "Probius",
     "Cassia",
     "Genji",
