@@ -18,6 +18,8 @@
 }
 
 .hero_box{
+    text-align: center;
+    font-size: 100px;
     background-color:rgb(238, 238, 238);
     font-size: 30px;
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
@@ -27,4 +29,13 @@
     top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
+    vertical-align: middle;
+}
+
+.hero_text{
+    text-align: center;
+    font-size: 150px;
+    vertical-align: middle;
+    margin: 0px;
+    padding: 70px 0;
 }
